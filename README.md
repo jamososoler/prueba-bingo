@@ -1,4 +1,4 @@
-# prueba-bingo
+# prueba-git-github
 primer repo por dalto
 
 ## descripcion
